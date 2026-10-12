@@ -1,0 +1,29 @@
+h1{
+    border-radius: 20px;
+    text-align: center;
+    background-color: lightgray;
+    }
+p{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius:5px;
+    font-family: 'gill sans','gill sans MT' ,calibri,'trebuchet MS',sans-serif;
+    line-height: 1.6;
+    letter-spacing: 0.5px;
+h1 {
+    color:blue;
+}
+h2 {
+    color:darkgreen;
+}
+p {
+    font-size:22px;
+    color:red;
+}
+button {
+    background-colour:white;
+    color:black;
+    padding:10px 20px;
+    border:2px solid black;
+    border-radius:5px;
+}
